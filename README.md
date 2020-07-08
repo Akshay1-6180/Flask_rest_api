@@ -14,11 +14,11 @@ pip3 install -U Flask-SQLAlchemy
 ```
 python3 app.py
 
-'''
+```
 
 open POSTMAN and the server is set up in the local host and the endpoints are 
 
-<li>/item/<name>  - for getting the items of the individual store requires authentication
+<li> /item/<name>  - for getting the items of the individual store requires authentication
 <li>/item - getting the complete list of items
 <li>/store - getting the items in all the  stores
 <li>/store/<name> - getting the item of a particular store
